@@ -106,7 +106,7 @@ body {
     margin: 25px 0;
 }
 
-##footer .footer-content .footer-menu p {
+#footer .footer-content .footer-menu p {
     font-weight: bold;
     text-transform: uppercase;
     color: #919496;
@@ -143,10 +143,6 @@ body {
 
 .footer-info .footer-info-items .footer-info-item{
     margin: 0 10px;
-}
-
-.footer-info .rights {
-
 }
 
 .footer-info .rights .country {
